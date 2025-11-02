@@ -2,7 +2,6 @@
 JumpInReplay is a bakkesmod Plugin which allows you to open replays in a private match and take control of any car in any situation
 
 **Basic Usage:**
-
 1. open a replay
 2. open bakkesmod window (F2)
 3. go to the plugins tab and select JumpInReplay
